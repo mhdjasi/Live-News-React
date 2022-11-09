@@ -1,0 +1,15 @@
+.imagebox{
+    box-shadow: 1px 1px 7px black;
+    cursor: pointer;
+}
+.title{
+    color: red;
+    text-align: left;
+}
+.des{
+    text-align: left;
+}
+.link a{
+    font-size: 15px;
+}
+
